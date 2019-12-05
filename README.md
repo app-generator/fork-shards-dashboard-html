@@ -1,10 +1,11 @@
-<p align="center">
-<a href="https://designrevision.com/downloads/shards-dashboard-lite/">
-<img src="assets/preview.png" width="250" />
-</a>
-</p>
-
 <h1 align="center" style="border-bottom: none !important; margin-bottom: 5px !important;"><a href="https://designrevision.com/downloads/shards-dashboard-lite/">Shards Dashboard UI Kit</a></h1>
+
+<br />
+
+> **In love with this dashboard?** Check out the [open-source version coded in Flask](https://github.com/app-generator/flask-dashboard-shards). **Features:** SQLite Database, Session-Based Authentication, Flat Html converted to Jinja2, clean code-base. 
+
+<br />
+
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" />
