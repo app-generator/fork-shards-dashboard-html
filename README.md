@@ -2,8 +2,15 @@
 
 <br />
 
-> **In love with this dashboard?** Check out the [open-source version coded in Flask](https://github.com/app-generator/flask-dashboard-shards). **Features:** SQLite Database, Session-Based Authentication, Flat Html converted to Jinja2, clean code-base. 
+## Want more? Use coded version or Go PRO!
 
+PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup)) 
+
+| [Flask Dashboard Shards](https://appseed.us/admin-dashboards/flask-dashboard-shards) | [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) | [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
+| --- | --- | --- |
+| [![Flask Dashboard Shards](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-shards-screen-3.png)](https://appseed.us/admin-dashboards/flask-dashboard-shards) | [![Django Dashboard Shards](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-shards-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-shards) | [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
+
+<br />
 <br />
 
 <p align="center">
